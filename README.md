@@ -13,7 +13,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=871&color=F70000&width=435&lines=This+Repo+Is+In+Underconstruction" alt="Typing SVG" /></a>
 
 
-<h2><b>👨‍💻 Author : Sumalya Chatterjee</b></h2>
+<h2><b>👨‍💻 Author : Laurindo Abel Afonso</b></h2>
 
 #
 <h2><b>😇 You Fork You Cute 😊 </h2></b>
