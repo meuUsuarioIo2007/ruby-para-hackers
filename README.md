@@ -12,13 +12,6 @@
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=871&color=F70000&width=435&lines=This+Repo+Is+In+Underconstruction" alt="Typing SVG" /></a>
 
-#
-<h2><b> 👽 Also Check out My <a href="https://github.com/R3DHULK/python-for-ethical-hacking/"> Python For Ethical Hacking</a> Project</h2></b>
-<h2><b> ✨ Also Check out My <a href="https://github.com/R3DHULK/Perl-for-ethical-hackers/"> Perl For Ethical Hacking</a> Project</h2></b>
-<h2><b> 🎗️ Also Check out My <a href="https://github.com/R3DHULK/golang-for-ethical-hackers/"> Golang For Ethical Hacking</a> Project</h2></b>
-<h2><b> 🤖 Also Check out My <a href="https://github.com/R3DHULK/bash-for-ethical-hackers/"> Bash For Ethical Hacking</a> Project</h2></b>
-
-#
 
 <h2><b>👨‍💻 Author : Sumalya Chatterjee</b></h2>
 
@@ -51,30 +44,14 @@ sudo apt install git
 sudo apt install ruby
 
 # Clone My Repo
-git clone https://github.com/R3DHULK/Ruby-For-Ethical-Hackers
+git clone https://github.com/meuUsuarioIo2007/ruby-para-hackers
 
 # Change Directory
-cd Ruby-For-Ethical-Hackers
+cd ruby-para-hackers
 
 # Enjoy 😊😇
 ```
-
-#
-
-<h1><b>👇 Just Go On ... </h1></b>
-<h2><b>1. <a href="https://github.com/R3DHULK/port-scanner-in-ruby"> Port Scanner In Ruby</a></b></h2>
-<h2><b>2. <a href="https://github.com/R3DHULK/website-scanner-in-ruby">Website Scanner In Ruby</a> </b></h2>
-<h2><b>3. <a href="https://github.com/R3DHULK/banner-grabber-in-ruby"> Banner Grabber In Ruby</a> </b></h2>
-<h2><b>4. <a href="https://github.com/R3DHULK/subdomain-finder-in-ruby"> Subdomain Finder In Ruby</a> </b></h2>
-<h2><b>5. <a href="https://github.com/R3DHULK/steganography-in-ruby"> Steganography In Ruby</a> </b></h2>
-<h2><b>6. <a href="https://github.com/R3DHULK/dns-enumeration-in-ruby"> DNS Enumeration In Ruby</a> </b></h2>
-<h2><b>7. <a href="https://github.com/R3DHULK/mac-changer-in-ruby"> Mac Changer In Ruby</a> </b></h2>
-<h2><b>8. <a href="https://github.com/R3DHULK/sqli-detector-in-ruby">SQL Injection Detector In Ruby</a> </b></h2>
-<h2><b>9. <a href="https://github.com/R3DHULK/osint-in-ruby">Osint In Ruby</a> </b></h2>
-<h2><b>10. <a href="https://github.com/R3DHULK/xss-vulnerability-finder-in-ruby">XSS Vulnerability Finder In Ruby</a> </b></h2>
-<h2><b>11. <a href="https://github.com/R3DHULK/random-password-generator-in-ruby">Random Password Generator In Ruby</a> </b></h2>
-
 #
 
 <h2><b><i> Show Support 👇👇👇</b></i> </h2>
-<a href="https://www.buymeacoffee.com/r3dhulk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a><br><br>
+<a href="https://laurindoabelafonso.vercel.app"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=""https://laurindoabelafonso.vercel.app" /></a><br><br>
